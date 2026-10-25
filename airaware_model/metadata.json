@@ -1,0 +1,11 @@
+{
+    "city": "Delhi",
+    "lookback": 30,
+    "best_model": "Persistence Baseline",
+    "baseline_mae": 31.46268656716418,
+    "baseline_rmse": 44.96897769822971,
+    "lstm_mae": 33.98085232635042,
+    "lstm_rmse": 45.92236282166666,
+    "gru_mae": 32.22767424702051,
+    "gru_rmse": 44.443267913114276
+}
